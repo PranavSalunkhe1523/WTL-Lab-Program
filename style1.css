@@ -1,0 +1,9 @@
+student{
+  display:block;
+  font-family:arial;
+  Background-color:#e6f7ff;
+  padding: 10px;
+  margin: 20px;
+  border:1px solid #aaa;
+  width: 300px
+}

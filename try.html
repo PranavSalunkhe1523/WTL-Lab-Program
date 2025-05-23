@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Event</title>
+</head>
+<body>
+  <script>
+    try {
+      let num = prompt("Enter the number: ");
+      if (isNaN(num)) {
+        throw "Not a number";
+      }
+      document.write("Number is: " + num);
+    } catch (err) {
+      document.write("Error: " + err);
+    }
+  </script>
+</body>
+</html>

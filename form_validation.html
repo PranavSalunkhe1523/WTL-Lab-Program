@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Event</title>
+</head>
+<body>
+  <form onsubmit="return ValidateForm()">
+    Name: <input type="text" id="name"><br/>
+    <input type="submit" value="Submit">
+  </form>
+
+  <script>
+    function ValidateForm() {
+      let name = document.getElementById("name").value;
+      if (name == "") {
+        alert("Name must be filled out");
+        return false;
+      } else {
+        return true;
+      }
+    }
+  </script>
+</body>
+</html>

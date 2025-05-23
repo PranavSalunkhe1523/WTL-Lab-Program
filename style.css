@@ -1,0 +1,13 @@
+body{
+	background-color:#f0f8ff;
+	font-family:arial,sans-serif;
+      }
+
+.info box{
+	border:2px Solid block;
+	padding: 10px;
+ 	width:50%;
+	margin:auto;
+ 	background-color:#e0ffff;
+	border-radius:10px;
+}

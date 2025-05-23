@@ -1,18 +1,9 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style1.css"?>
+
 <student>
-   <TYA>
-      <Rollno>1</Rollno>
-      <Name>Saloni</Name>
-      <Department>CSE</Department>
-   </TYA>
-   <TYA>
-      <Rollno>2</Rollno>
-      <Name>aditi</Name>
-      <Department>Civil</Department>
-   </TYA>
-   <TYA>
-      <Rollno>3</Rollno>
-      <Name>Aditya</Name>
-      <Department>cse</Department>
-   </TYA>
+ <name>Pranav Salunkhe</name>
+ <roll_no>44</roll_no>
+ <branch>CSE</branch>
+ <college>D Y Patil College</college>
 </student>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="employee_axes.xsl"?>
+
+<employees>
+    <employee>
+        <id>101</id>
+        <name>Pranav Salunkhe</name>
+        <dept>Computer Science</dept>
+        <salary>50000</salary>
+    </employee>
+    <employee>
+        <id>102</id>
+        <name>Ravi Deshmukh</name>
+        <dept>IT</dept>
+        <salary>48000</salary>
+    </employee>
+    <employee>
+        <id>103</id>
+        <name>Raj patil</name>
+        <dept>MG</dept>
+	<salary>55000</salary>
+     </employee>
+ 
+</employees>
